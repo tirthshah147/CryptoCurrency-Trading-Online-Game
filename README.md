@@ -8,7 +8,7 @@ Change database connection in dbh.php file and game is yours.....
 
 Technologies Used:
 <li>HTML</li>
-<li>CSS/li>
+<li>CSS</li>
 <li>JAVASCRIPT</li>
 <li>PHP</li>
 <li>Jquery</li>
