@@ -7,8 +7,8 @@ Game includes taking part in weekly contest, complete the crypto-task, trade and
 Change database connection in dbh.php file and game is yours.....
 
 Technologies Used:
-HTML
-CSS
-JAVASCRIPT
-PHP
-Jquery
+<li>HTML</li>
+<li>CSS/li>
+<li>JAVASCRIPT</li>
+<li>PHP</li>
+<li>Jquery</li>
